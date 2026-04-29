@@ -1,18 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e90ff,100:00bfff&height=200&section=header&text=Hey%2C%20I'm%20Ritesh%20Yadav%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%2FML%20Developer%20%7C%20Building%20Smart%20Solutions&descAlignY=58&descSize=18&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!+🚀;Aspiring+AI%2FML+Developer;Building+Real-World+Projects;Learning+DSA+%26+Problem+Solving;Future+AI+Engineer+💡" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Ritesh-delta&label=Profile+Views&color=00bfff&style=flat-square" />
-<img src="https://img.shields.io/github/followers/Ritesh-delta?label=Followers&style=flat-square&color=00bfff" />
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 ```python
@@ -30,7 +15,6 @@ class RiteshYadav:
 
 me = RiteshYadav()
 print(me.goal())
-
 🚀 About My Journey
 🎓 1st-year Computer Science student
 🤖 Learning AI/ML + Data Structures
