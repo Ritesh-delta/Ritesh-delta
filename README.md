@@ -10,7 +10,7 @@
 
 ## 📊 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ritesh-delta&theme=react-dark&bg_color=000000&color=ff00ff&line=00ffff&point=ffffff&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ritesh-delta&theme=github-light&hide_border=true&line=2f80ed&point=2f80ed)
 
 ---
 
