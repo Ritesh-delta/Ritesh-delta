@@ -1,44 +1,45 @@
-# Hi 👋, I'm Ritesh
-
-## 🚀 About Me
-
-* 💻 DSA + LeetCode Practice
-* 🤖 AIML Enthusiast
-* 📈 Consistently learning and building
+## Hi 👋, I'm Ritesh Yadav
+### 🚀 Aspiring AI/ML Engineer | Problem Solver | Tech Enthusiast  
 
 ---
 
-## 📊 GitHub Activity Graph
+## 🔥 Work
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ritesh-delta&theme=github-light&hide_border=true&line=2f80ed&point=2f80ed)
+- 🔭 I’m currently working on **Kishan Sathi**  
+  → Smart AI platform to help farmers with crop decisions & market insights  
 
----
+- 👯 I’m looking to collaborate on **AI/ML & Open Source Projects**  
+  → Especially in real-world problem solving  
 
-## 📈 GitHub Stats
+- 🤝 I’m looking for help with **Scaling AI Models & Deployment**  
+  → Need guidance on production-level ML systems  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritesh-delta\&show_icons=true\&theme=tokyonight)
+- 🌱 I’m currently learning **Machine Learning, Scikit-learn & Data Science**  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ritesh-delta\&theme=tokyonight)
+- 💬 Ask me about **Python, NumPy, Pandas, DSA & Beginner AI/ML**  
 
----
+- 📫 How to reach me  
+  → **ritesh.yadav.pfpfil@gmail.com**  
 
-## 🧠 Languages & Tools
-
-* Python 🐍
-* NumPy, Pandas
-* DSA & Problem Solving
-
----
-
-## 🎯 Current Focus
-
-* Solving LeetCode daily
-* Building AIML projects
-* Improving problem-solving skills
+- 🌐 All of my projects are available at  
+  → *(Add your portfolio link here when ready)*  
 
 ---
 
-## 🔗 Connect with Me
+## ⚡ Tech Stack
+- 💻 Languages: Python, C++  
+- 📊 Libraries: NumPy, Pandas, Matplotlib  
+- 🤖 AI/ML: Scikit-learn (learning phase)  
+- 🔧 Tools: Git, GitHub, VS Code  
 
-* LinkedIn: Add your link here
+---
 
+## 📈 Goals for 2026
+- Crack an **AI/ML Internship**  
+- Build **real-world impactful projects**  
+- Stay consistent on **LeetCode + GitHub**  
+
+---
+
+## 🚀 Fun Fact
+I turn ☕ coffee into 💡 ideas and code into 🚀 projects
