@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Ritesh
 
-<!--
-**Ritesh-delta/Ritesh-delta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+* 💻 DSA + LeetCode Practice
+* 🤖 AIML Enthusiast
+* 📈 Consistently learning and building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ritesh-delta\&theme=react-dark)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritesh-delta\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ritesh-delta\&theme=tokyonight)
+
+---
+
+## 🧠 Languages & Tools
+
+* Python 🐍
+* NumPy, Pandas
+* DSA & Problem Solving
+
+---
+
+## 🎯 Current Focus
+
+* Solving LeetCode daily
+* Building AIML projects
+* Improving problem-solving skills
+
+---
+
+## 🔗 Connect with Me
+
+* LinkedIn: Add your link here
+
