@@ -14,6 +14,7 @@
 ---
 
 ## 👨‍💻 About Me
+```python
 class RiteshYadav:
     def __init__(self):
         self.role = "Computer Science Student"
@@ -28,6 +29,7 @@ class RiteshYadav:
 
 me = RiteshYadav()
 print(me.goal())
+```
 
 ## 🚀 About My Journey
 
