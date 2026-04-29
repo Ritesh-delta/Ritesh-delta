@@ -13,31 +13,15 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 🚀 About Me
 
-```python
-class RiteshYadav:
-    def __init__(self):
-        self.role = "Computer Science Student"
-        self.location = "Kolkata, India 🇮🇳"
-        self.focus = ["AI/ML", "Data Structures"]
-        self.languages = ["Python", "JavaScript", "HTML", "CSS"]
-        self.database = ["MySQL"]
-        self.tools = ["Git", "GitHub", "LeetCode"]
-
-    def goal(self):
-        return "Become a skilled AI Engineer & land impactful internships 🚀"
-
-me = RiteshYadav()
-print(me.goal())
-```
-
+Passionate about AI/ML and Data Structures, I enjoy solving problems and building projects using Python and JavaScript. Continuously learning and improving my skills with the goal of becoming a skilled AI Engineer and gaining impactful internship experience 🚀
 ## 🚀 About My Journey
 
 - 🎓 1st-year Computer Science student
 - 🤖 Currently learning AI/ML + Data Structures
 - 🛠️ Love building real-world problem-solving projects
-- 🎯 Goal: Become an AI Engineer and crack top internships
+- 🎯 Goal: Become an AI/ML Engineer
 
 ---
 
