@@ -25,6 +25,7 @@ Passionate about AI/ML and Data Structures, I enjoy solving problems and buildin
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 ### 💬 Languages
@@ -90,6 +91,14 @@ Passionate about AI/ML and Data Structures, I enjoy solving problems and buildin
 - 🚀 Goal: Build consistency & strong logic
 
 ---
+## 🎯 Goals for 2026
+- 🤖 Strengthen AI/ML fundamentals
+- 🧠 Master Data Structures & Algorithms
+- 🛠️ Build real-world impactful projects
+- 💻 Stay consistent with problem-solving (LeetCode)
+- 🌍 Contribute to open-source
+- 🚀 Secure a valuable internship
+ ---
 
 ## 🤝 Connect With Me
 
