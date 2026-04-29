@@ -1,24 +1,148 @@
-<h1 align="center">Hi 👋, I'm RITESH</h1>
-<h3 align="center">Aspiring AI/ML Engineer with a focus on Python, Data Analysis, and Data Structures & Algorithms, aiming to solve real-world problems through technology</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh-delta&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh-delta" /> </p>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:a371f7&height=200&section=header&text=Hey%2C%20I'm%20Ritesh%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Code%20%7C%20Create%20%7C%20Contribute&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-- 🔭 I’m currently working on **Kishan Sathi**
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80;Passionate+Full+Stack+Developer+%F0%9F%92%BB;Python+%7C+JavaScript+%7C+HTML+%7C+CSS;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-- 📫 How to reach me **ritesh.yadav.pfpfil@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
+<!-- Profile Views & Social Badges -->
+<img src="https://komarev.com/ghpvc/?username=ritesh&label=Profile+Views&color=a371f7&style=flat-square" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/ritesh?label=Followers&style=flat-square&color=a371f7" alt="Followers"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```python
+class Ritesh:
+    name        = "Ritesh"
+    location    = "Kolkata, India 🇮🇳"
+    role        = "Full Stack Developer"
+    languages   = ["Python", "JavaScript", "HTML", "CSS"]
+    database    = ["MySQL"]
+    tools       = ["Git", "GitHub", "VS Code"]
+    interests   = ["Web Development", "Problem Solving", "Open Source"]
+    
+    def say_hi(self):
+        print("Thanks for visiting my profile! Let's build something amazing together 🚀")
+
+me = Ritesh()
+me.say_hi()
+```
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💬 Languages
 <p align="left">
-<a href="https://linkedin.com/in/ritesh yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritesh yadav" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lbe2zeailm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lbe2zeailm" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritesh-delta&show_icons=true&locale=en&layout=compact" alt="ritesh-delta" /></p>
+### 🔧 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritesh-delta&show_icons=true&locale=en" alt="ritesh-delta" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh-delta&" alt="ritesh-delta" /></p>
+## 📊 GitHub Stats
 
+<div align="center">
+
+<!-- Stats from the uploaded dashboard -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ritesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a371f7&icon_color=a371f7&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh&theme=tokyonight&hide_border=true&background=0d1117&ring=a371f7&fire=ff6b6b&currStreakLabel=a371f7" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
+
+### 🏆 Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
+
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh&bg_color=0d1117&color=a371f7&line=a371f7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🏅 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ritesh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🔥 My 2026 Highlights
+
+<div align="center">
+
+| 📌 Metric | 🔢 Count |
+|:---:|:---:|
+| ⭐ Total Stars | 6 |
+| 🔨 2026 Commits | 251 |
+| 🔃 Total PRs | 32 |
+| ❗ Total Issues | 1 |
+| 🏗️ Repos Contributed To | 28 |
+| 📦 Public Repos | 30 |
+| 🙌 Contributions in 2026 | 320 |
+
+</div>
+
+---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/ritesh?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ritesh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritesh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritesh)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ritesh/ritesh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,100:0d1117&height=120&section=footer&text=Thanks+for+visiting!+%E2%9C%A8&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+
+</div>
