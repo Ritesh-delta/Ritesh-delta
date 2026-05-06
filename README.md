@@ -35,7 +35,7 @@ Passionate about AI/ML and Data Structures, I enjoy solving problems and buildin
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
 </p>
 
 ### ⚙️ Tools
