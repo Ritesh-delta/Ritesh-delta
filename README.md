@@ -33,14 +33,19 @@ Passionate about AI/ML and Data Structures, I enjoy solving problems and buildin
   <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
 </p>
 
-### 🗄️ Database
+### 📚 Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib&theme=dark" />
+</p>
+
+### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
 </p>
 
 ### ⚙️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
 </p>
 
 ---
