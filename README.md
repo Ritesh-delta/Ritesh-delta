@@ -48,7 +48,8 @@ Passionate about AI/ML and Data Structures, I enjoy solving problems and buildin
 
 ### ⚙️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
+   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48"/>
 </p>
 
 ---
