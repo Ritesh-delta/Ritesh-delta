@@ -43,6 +43,7 @@ Passionate about AI/ML and Data Structures, I enjoy solving problems and buildin
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" />
   
 </p>
 
@@ -53,7 +54,7 @@ Passionate about AI/ML and Data Structures, I enjoy solving problems and buildin
 
 ### ⚙️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,Uvicorn&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="38" height="48"/>
 </p>
 
