@@ -30,7 +30,7 @@ Passionate about AI/ML and Data Structures, I enjoy solving problems and buildin
 
 ### 💬 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,C++&theme=dark" />
 </p>
 
 ### 🌐 Web Technologies
