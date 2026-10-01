@@ -79,9 +79,9 @@ Passionate about AI/ML and Data Structures, I enjoy solving problems and buildin
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritesh-delta&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritesh-delta" alt="GitHub Activity Graph" />
+</p>
 ---
 
 ## 🏆 GitHub Trophies
