@@ -44,7 +44,8 @@ Passionate about AI/ML and Data Structures, I enjoy solving problems and buildin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/restapi-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/flask-original.svg" width="48" />
 </p>
 
 ### 🗄️ Databases
